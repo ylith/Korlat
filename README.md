@@ -12,6 +12,6 @@
 
 
 ##Inspirations:
-1.[Donkey Kong](http://en.wikipedia.org/wiki/Donkey_Kong_(video_game))
-2.[Sonic The Hedgehog](http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game))
-3.[Trine](http://en.wikipedia.org/wiki/Trine_(video_game))
+1. [Donkey Kong](http://en.wikipedia.org/wiki/Donkey_Kong_(video_game))
+2. [Sonic The Hedgehog](http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game))
+3. [Trine](http://en.wikipedia.org/wiki/Trine_(video_game))
